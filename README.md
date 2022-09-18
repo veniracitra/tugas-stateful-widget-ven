@@ -1,7 +1,5 @@
 # statefull_widget
 
-Jangan lupa jalan perintah flutter pub get
-
 A new Flutter project.
 
 ## Getting Started
